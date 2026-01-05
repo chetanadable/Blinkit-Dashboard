@@ -12,13 +12,19 @@ The Blinkit Analytics Dashboard provides a comprehensive overview of sales, prod
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Core platform for building interactive visuals and KPIs
+
 📂 Power Query – Data cleaning, transformation, and preprocessing
+
 🧠 DAX (Data Analysis Expressions) – Created calculated measures such as Total Sales, Average Sales, KPIs, and conditional logic
+
 📝 Data Modeling – Relationships built between sales, outlets, items, and categories for cross-filtering
+
 📁 File Format – .pbix for development and .png for dashboard preview
 
 4. Data Source
+
 Source: Blinkit retail sales dataset (simulated / business case dataset)
+
 Dataset Overview:
 Outlet-level sales data
 Product categories and item types
@@ -26,7 +32,8 @@ Outlet size, location tier, and outlet type
 Customer ratings and item visibility
 The dataset is structured to represent real-world retail and quick-commerce operations.
 
-5. Features / Highlights
+6. Features / Highlights
+   
 • Business Problem
 Quick-commerce businesses like Blinkit operate across multiple outlet formats, product categories, and city tiers.
 Without a centralized analytics view, it becomes difficult to answer key questions such as:
