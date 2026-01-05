@@ -3,16 +3,16 @@
 Retail Sales & Outlet Performance Dashboard
 
 1. Project Title / Headline
-2. 
+
 🛒 Blinkit Analytics: Retail Sales & Outlet Performance Dashboard
 
 An interactive Power BI dashboard designed to analyze Blinkit’s sales performance, outlet efficiency, product categories, and customer behavior across multiple outlet types and locations.
 
-4. Short Description / Purpose
+2. Short Description / Purpose
 
 The Blinkit Analytics Dashboard provides a comprehensive overview of sales, product distribution, outlet performance, and customer ratings. It helps stakeholders understand business trends, optimize outlet strategies, and improve decision-making using data-driven insights.
 
-6. Tech Stack
+3. Tech Stack
    
 The dashboard was built using the following tools and technologies:
 
@@ -42,7 +42,7 @@ Customer ratings and item visibility
 
 The dataset is structured to represent real-world retail and quick-commerce operations.
 
-6. Features / Highlights
+5. Features / Highlights
    
 • Business Problem
 
