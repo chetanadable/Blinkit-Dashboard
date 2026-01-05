@@ -115,3 +115,4 @@ Executive Reporting: One-page dashboard enables fast, data-driven decisions
 6. Screenshots / Demos
 📸 Dashboard Preview:
 (Blinkit Sales & Outlet Performance Dashboard – Power BI)
+Example: Blinkit Dashboard (https://github.com/chetanadable/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png)
